@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 <!--
-"Omolola Aminu" 
-"OPS445 section"
+Omolola Aminu
+OPS445 section
 -->
